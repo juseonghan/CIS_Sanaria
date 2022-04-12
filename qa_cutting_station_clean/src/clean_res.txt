@@ -1,0 +1,16 @@
+/home/juseonghan/cis/qa_cutting_station_clean/data/20220211-162238.293_pick.png
+/home/juseonghan/cis/qa_cutting_station_clean/data/20220211-164411.735_pick.png
+/home/juseonghan/cis/qa_cutting_station_clean/data/20220210-172732.212_pick.png
+/home/juseonghan/cis/qa_cutting_station_clean/data/20220210-174135.098_pick.png
+/home/juseonghan/cis/qa_cutting_station_clean/data/20220210-175807.714_pick.png
+/home/juseonghan/cis/qa_cutting_station_clean/data/20220213-152459.859_pick.png
+/home/juseonghan/cis/qa_cutting_station_clean/data/20220211-164634.702_pick.png
+/home/juseonghan/cis/qa_cutting_station_clean/data/20220210-172410.103_pick.png
+/home/juseonghan/cis/qa_cutting_station_clean/data/20220210-171306.510_pick.png
+/home/juseonghan/cis/qa_cutting_station_clean/data/20220211-160241.744_pick.png
+/home/juseonghan/cis/qa_cutting_station_clean/data/20220211-161406.544_pick.png
+/home/juseonghan/cis/qa_cutting_station_clean/data/20220210-173427.515_pick.png
+/home/juseonghan/cis/qa_cutting_station_clean/data/20220211-154432.894_pick.png
+/home/juseonghan/cis/qa_cutting_station_clean/data/20220211-163216.914_pick.png
+/home/juseonghan/cis/qa_cutting_station_clean/data/20220211-155629.936_pick.png
+/home/juseonghan/cis/qa_cutting_station_clean/data/20220211-162530.953_pick.png
